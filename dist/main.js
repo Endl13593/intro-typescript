@@ -5,4 +5,4 @@ function multiply(a, b) {
     return a * b;
 }
 exports.multiply = multiply;
-console.log(multiply(2, 5));
+console.log(multiply(3, 10));
