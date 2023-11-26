@@ -20,4 +20,4 @@ const calcTotal = (name: string, ...numbers: number[]) => {
     numbers.forEach(n => total += n);
     return total;
 }
-console.log(calcTotal('Eduardo', 1, 2, 3, 4, 5));
+console.log(calcTotal('John', 1, 2, 3, 4, 5));
